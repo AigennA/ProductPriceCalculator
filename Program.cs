@@ -25,7 +25,7 @@
             }
             Console.WriteLine($"Total price inc. VAT:{totalPrice} kr");
 
-
+            //Lagt till default-parameter för moms
         }
 
         private static double CalculatePrice(
