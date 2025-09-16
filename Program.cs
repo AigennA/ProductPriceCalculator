@@ -36,6 +36,6 @@
             var totalPrice = (totalProducts) * (1 + vat);
             return totalPrice;
         }
-
+        //Visar totalprice
     }
 }
