@@ -14,6 +14,8 @@
             Console.WriteLine("How much is the VAT in procent?"); //Asking to user
             var vat = double.Parse(Console.ReadLine());
 
+            //Metod med flera parametrar 
+
             double totalPrice = 0;
             if (vat <= 0)
             {
